@@ -1,0 +1,13 @@
+D:\-OOP-Csharp-main\-OOP-Csharp-main\schoolManagment\obj\Debug\netcoreapp3.1\schoolManagment.csprojAssemblyReference.cache
+D:\-OOP-Csharp-main\-OOP-Csharp-main\schoolManagment\obj\Debug\netcoreapp3.1\schoolManagment.AssemblyInfoInputs.cache
+D:\-OOP-Csharp-main\-OOP-Csharp-main\schoolManagment\obj\Debug\netcoreapp3.1\schoolManagment.AssemblyInfo.cs
+D:\-OOP-Csharp-main\-OOP-Csharp-main\schoolManagment\obj\Debug\netcoreapp3.1\schoolManagment.csproj.CoreCompileInputs.cache
+D:\-OOP-Csharp-main\-OOP-Csharp-main\schoolManagment\bin\Debug\netcoreapp3.1\schoolManagment.exe
+D:\-OOP-Csharp-main\-OOP-Csharp-main\schoolManagment\bin\Debug\netcoreapp3.1\schoolManagment.deps.json
+D:\-OOP-Csharp-main\-OOP-Csharp-main\schoolManagment\bin\Debug\netcoreapp3.1\schoolManagment.runtimeconfig.json
+D:\-OOP-Csharp-main\-OOP-Csharp-main\schoolManagment\bin\Debug\netcoreapp3.1\schoolManagment.runtimeconfig.dev.json
+D:\-OOP-Csharp-main\-OOP-Csharp-main\schoolManagment\bin\Debug\netcoreapp3.1\schoolManagment.dll
+D:\-OOP-Csharp-main\-OOP-Csharp-main\schoolManagment\bin\Debug\netcoreapp3.1\schoolManagment.pdb
+D:\-OOP-Csharp-main\-OOP-Csharp-main\schoolManagment\obj\Debug\netcoreapp3.1\schoolManagment.dll
+D:\-OOP-Csharp-main\-OOP-Csharp-main\schoolManagment\obj\Debug\netcoreapp3.1\schoolManagment.pdb
+D:\-OOP-Csharp-main\-OOP-Csharp-main\schoolManagment\obj\Debug\netcoreapp3.1\schoolManagment.genruntimeconfig.cache
