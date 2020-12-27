@@ -6,6 +6,7 @@ namespace schoolManagment
     {
         static void Main(string[] args)
         {
+            
         }
     }
 }
