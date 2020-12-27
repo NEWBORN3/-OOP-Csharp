@@ -10,7 +10,7 @@ namespace schoolManagment
         public float Score { get; set; }
         public float MaximumScore { get; set; }
 
-        public string[] WordCount {
+        public int WordCount {
             get { return PaperText.countNow(); }
         }
     }

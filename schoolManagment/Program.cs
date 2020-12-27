@@ -14,7 +14,6 @@ namespace schoolManagment
             Console.WriteLine($"{newPerson.SendMessage("Hello Students and Teachers")}");
             var engAssignment = new EnglishPaper();
             var sciAssignment = new ScienceExperiment();
-            var message = " Is Haymanot tamrat birye now in the zone? True or False.";
             engAssignment.Score = 500f;
             engAssignment.MaximumScore = 700f;
             
@@ -22,8 +21,6 @@ namespace schoolManagment
             sciAssignment.MaximumScore = 700f;
 
             var printUtility = ScoreUtility.BestOfTwo(engAssignment,sciAssignment);
-            Console.WriteLine($"{printUtility}");
-            Console.WriteLine($"{message.countNow()[3]}");
         }
     }
 }
